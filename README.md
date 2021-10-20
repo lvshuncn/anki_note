@@ -1,6 +1,6 @@
 # Anki Note
 
-![](https://anki-note-apple-bucket.oss-cn-hangzhou.aliyuncs.com/icon_512x512%402x.png)
+![](https://anki-note-apple-bucket.oss-cn-hangzhou.aliyuncs.com/icon_128x128.png)
 
 > Link your flash cards
 
