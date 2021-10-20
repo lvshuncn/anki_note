@@ -1,5 +1,7 @@
 # Anki Note
 
+![](https://anki-note-apple-bucket.oss-cn-hangzhou.aliyuncs.com/icon_512x512%402x.png)
+
 > Link your flash cards
 
 When users use flashcards to learn, they will encounter a problem that their knowledge points is scattered in every corner, and it is difficult for users to sort out a knowledge network from it.
